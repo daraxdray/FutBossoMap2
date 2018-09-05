@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/search" android:title="Search" android:icon="@drawable/ic_search_black_24dp"/>
+    <item android:id="@+id/viewMap" android:title="Bosso Campus Map" android:icon="@drawable/ic_map_black_24dp"/>
+    <item android:id="@+id/ePortal" android:title="E-portal" android:icon="@drawable/ic_explicit_black_24dp"/>
+    <item android:id="@+id/eResult" android:title="E-Result" android:icon="@drawable/ic_book_black_24dp"/>
+
+    <item android:id="@+id/gallery" android:title="Gallery" android:icon="@drawable/ic_image_black_24dp"/>
+    <item android:id="@+id/exit" android:title="Exit" android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+
+</menu>

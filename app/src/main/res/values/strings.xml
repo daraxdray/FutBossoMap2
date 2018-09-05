@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FutBossoMap</string>
+    <string name="home_pg">Home Page</string>
+    <string name="eportal">E-Portal</string>
+    <string name="eresult">E-Result</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_all_menu">all_menu</string>
+    <string name="title_activity_gallery">gallery</string>
+    <string name="large_text">
+     Put A Large Text here</string>
+    <string name="sub_heading">Explore the Beauty of the School</string>
+    <string name="heading">School Enviroment</string>
+    <string name="Btntext">17sp</string>
+    <string name="about_us">About us</string>
+</resources>

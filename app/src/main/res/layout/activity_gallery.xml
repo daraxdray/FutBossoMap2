@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".gallery">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include layout="@layout/gallery_content"/>
+
+
+    </ScrollView>
+    <Button
+        android:gravity="bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:onClick="nxt"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:text="Next" />
+
+
+    <!-- <GridView
+         android:id="@+id/gridview"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_centerVertical="true"
+         android:layout_centerHorizontal="true"
+         android:numColumns="auto_fit"
+         android:columnWidth="100dp"
+         android:verticalSpacing="10dp"
+         android:horizontalSpacing="10dp"
+         tools:layout_editor_absoluteX="8dp"
+         tools:layout_editor_absoluteY="8dp"
+         android:stretchMode="spacingWidthUniform"/> -->
+</RelativeLayout>
